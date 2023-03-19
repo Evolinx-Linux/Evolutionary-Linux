@@ -1,2 +1,2 @@
-# DrunkOS
-For all the info
+# Evolutionary Linux
+* For all the info
